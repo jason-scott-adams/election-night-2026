@@ -1,0 +1,6 @@
+{
+  "name": "election-night",
+  "version": "0.1.0",
+  "description": "Election night 2026 balance of power pane with a Kansas spotlight, refreshed every 3 minutes",
+  "types": "./types/index.d.ts"
+}

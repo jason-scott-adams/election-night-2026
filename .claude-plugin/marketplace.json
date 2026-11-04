@@ -1,0 +1,5 @@
+{
+  "name": "election-night-2026",
+  "owner": { "name": "Jason Scott Adams" },
+  "plugins": [{ "name": "election-night", "source": "./" }]
+}
